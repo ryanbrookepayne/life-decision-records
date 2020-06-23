@@ -2,6 +2,8 @@
 
 A satirical take on [Architecture Decision Records (ADR)](https://adr.github.io/).
 
+[**View records →**](./doc/adr/)
+
 ### See Also
 
 - [Documenting Architecture Decisions](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
@@ -10,3 +12,4 @@ A satirical take on [Architecture Decision Records (ADR)](https://adr.github.io/
 ### Contributing
 
 This repo used [ADR Tools](https://github.com/npryce/adr-tools) to generate new ADRs.
+
