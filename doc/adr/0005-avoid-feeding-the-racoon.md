@@ -12,7 +12,7 @@ We see a hungry friendly looking racoon wandering through our yard.
 
 ## Decision
 
-We will leave the raccoon alone and not feed it.
+We will leave the raccoon alone and avoid feeding it.
 
 ## Consequences
 
