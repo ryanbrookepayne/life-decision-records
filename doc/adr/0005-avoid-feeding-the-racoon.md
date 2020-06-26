@@ -8,7 +8,7 @@ Accepted
 
 ## Context
 
-We see a hungry emaciated racoon wandering through our yard.
+We see a hungry friendly looking racoon wandering through our yard.
 
 ## Decision
 
