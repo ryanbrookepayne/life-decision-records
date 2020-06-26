@@ -1,4 +1,4 @@
-# 2. Escape Grizzly Bear Attack
+# 2. 🐻 Escape Grizzly Bear Attack
 
 Date: 2020-06-23
 
