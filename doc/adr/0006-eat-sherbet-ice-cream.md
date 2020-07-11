@@ -12,7 +12,7 @@ It is 10:06pm on a hot and muggy summer evening. There are three flavors of ice 
 
 ## Decision
 
-We will consume the entire carton of sherbet in one setting.
+We will consume the entire carton of sherbet in one sitting.
 
 ## Consequences
 
