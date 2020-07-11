@@ -1,4 +1,4 @@
-# 1. Record architecture decisions
+# 1. Record life decisions
 
 Date: 2020-06-23
 
@@ -8,7 +8,7 @@ Accepted
 
 ## Context
 
-We need to record the architectural decisions made on this project.
+We need to record the decisions of our lives.
 
 ## Decision
 
